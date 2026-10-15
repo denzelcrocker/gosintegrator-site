@@ -1,0 +1,43 @@
+{
+  "supplierCode": "demo-supplier",
+  "dryRun": true,
+  "products": [
+    {
+      "externalId": "DEMO-001",
+      "product": {
+        "name": "Тестовая платформа поставщика",
+        "slug": "demo-supplier-platform",
+        "sku": "DEMO-SUPPLIER-001",
+        "brand": "Айти Интегратор",
+        "category": "computers",
+        "summary": "Рабочая станция под вашу конфигурацию",
+        "description": "Демонстрационная карточка для проверки магазина. Конфигурация, стоимость и наличие приведены как пример и требуют подтверждения перед публикацией. Иллюстрация ICL показывает пример форм-фактора и не является фотографией собственной продукции.",
+        "price": 89900,
+        "stock": 0,
+        "imageUrl": "/images/desktop.png",
+        "isOwn": false,
+        "isPublished": false,
+        "isDemo": true,
+        "registryNumber": null,
+        "specifications": [
+          {
+            "name": "Процессор",
+            "value": "Intel Core i5, пример конфигурации"
+          },
+          {
+            "name": "Оперативная память",
+            "value": "32 ГБ DDR4"
+          },
+          {
+            "name": "Накопитель",
+            "value": "1 ТБ SSD NVMe"
+          },
+          {
+            "name": "Операционная система",
+            "value": "По согласованию"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "dryRun": true,
+  "entries": [
+    {
+      "number": "REPLACE-WITH-REAL-NUMBER",
+      "status": "active",
+      "validUntil": "2026-12-31",
+      "sourceUrl": "https://portfolio.gisp.gov.ru/pp719v2/pub/prod/"
+    }
+  ]
+}
